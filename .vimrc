@@ -1,9 +1,9 @@
 set backup cursorline ruler showcmd autoindent nu smartindent showmatch incsearch nocompatible
 set history=50	
-set mouse=a
 syntax on
 set t_Co=256
 set tabstop=4
+set expandtab
 set shiftwidth=4
 colorscheme desert
 filetype plugin on
